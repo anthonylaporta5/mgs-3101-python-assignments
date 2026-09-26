@@ -17,3 +17,12 @@ print("Shop:", shop_name)
 print("Drink revenue: $", drink_revenue)
 print("Pastry revenue: $", pastry_revenue)
 print("Total revenue: $", total_revenue)
+# Calculate drink and pastry revenue
+drink_revenue = number_of_drinks * price_per_drink
+pastry_revenue = number_of_pastries * price_per_pastry
+total_revenue = drink_revenue + pastry_revenue
+
+# Display revenue
+print("Drink revenue: $", drink_revenue)
+print("Pastry revenue: $", pastry_revenue)
+print("Total revenue: $", total_revenue)
