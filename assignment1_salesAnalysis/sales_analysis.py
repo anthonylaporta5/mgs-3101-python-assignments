@@ -26,3 +26,6 @@ total_revenue = drink_revenue + pastry_revenue
 print("Drink revenue: $", drink_revenue)
 print("Pastry revenue: $", pastry_revenue)
 print("Total revenue: $", total_revenue)
+# Print the written sales analysis
+with open("sales_analysis.txt", "r") as file:
+    print(file.read())
