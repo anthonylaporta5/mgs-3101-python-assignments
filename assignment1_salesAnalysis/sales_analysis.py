@@ -34,3 +34,15 @@ if total_revenue >= 500:
     print("Total revenue is at least $500.")
 else:
     print("Total revenue is less than $500.")
+# Data supporting recommendations
+
+print("\nRecommendation Data:")
+
+# Recommendation 1: Focus staffing and promotions around peak hours
+print("Recommendation 1: Analyze peak sales hours and schedule more staff during busy periods.")
+
+# Recommendation 2: Focus inventory on high-performing categories
+print("Recommendation 2: Focus inventory and promotions on the strongest product categories.")
+
+# Recommendation 3: Compare store locations
+print("Recommendation 3: Compare sales performance across store locations.")
