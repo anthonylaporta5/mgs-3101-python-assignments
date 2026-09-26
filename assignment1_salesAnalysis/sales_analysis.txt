@@ -1,0 +1,4 @@
+Sales Analysis
+
+This document will contain the completed sales analysis, data findings,
+recommendations, and questions based on the coffee shop dataset.
