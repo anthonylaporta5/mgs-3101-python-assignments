@@ -29,3 +29,8 @@ print("Total revenue: $", total_revenue)
 # Print the written sales analysis
 with open("sales_analysis.txt", "r") as file:
     print(file.read())
+# Check whether total revenue is at least $500
+if total_revenue >= 500:
+    print("Total revenue is at least $500.")
+else:
+    print("Total revenue is less than $500.")
